@@ -1,0 +1,52 @@
+id,name,type,region,published
+Ziffer1,Pressekodex Ziffer 1,0,NA,NA
+Ziffer2,Pressekodex Ziffer 2,0,NA,NA
+Ziffer4,Pressekodex Ziffer 4,0,NA,NA
+Ziffer5,Pressekodex Ziffer 5,0,NA,NA
+Ziffer7,Pressekodex Ziffer 7,0,NA,NA
+Ziffer8,Pressekodex Ziffer 8,0,NA,NA
+Ziffer9,Pressekodex Ziffer 9,0,NA,NA
+Ziffer10,Pressekodex Ziffer 10,0,NA,NA
+Ziffer11,Pressekodex Ziffer 11,0,NA,NA
+Ziffer12,Pressekodex Ziffer 12,0,NA,NA
+Ziffer13,Pressekodex Ziffer 13,0,NA,NA
+Ziffer14,Pressekodex Ziffer 14,0,NA,NA
+WAZ,Westdeutsche Allgemeine Zeitung,1,1,1
+HM,Hamburger Morgenpost,1,1,1
+RK,Rothenburger Kreiszeitung,1,1,1
+MBZ,Mittelbayerische Zeitung,1,1,1
+DP,Dill-Post,1,1,1
+ABZ,Abendzeitung,1,1,1
+TZ,Tageszeitung,1,1,1
+MM,Münchner Merkur,1,1,1
+FNP,Frankfurter neue Presse,1,1,1
+DE,Darmstädter Echo,1,1,1
+TAZ,Die Tageszeitung,1,0,1
+Coupe,Coupé,1,0,1
+Quick,Quick,1,0,1
+Bunte,Bunte,1,0,1
+Super,Super,1,0,1
+ME,Mitteldeutscher Express,1,1,1
+Bild,Bild,1,0,1
+FR,Freizeit Revue,1,0,1
+DGZ,Deggendorfer Zeitung,1,1,1
+FN,Fishtown News,1,1,0
+HK,Höchster Kreisblatt,1,1,1
+BildaS,Bild am Sonntag,1,0,1
+DW,Die Woche (Regensburg),1,1,1
+SPHT,Standortpresse/Haller Tageblatt,1,1,1
+Tempo,Tempo,1,0,1
+SuperI,Super Illu,1,0,1
+Playboy,Playboy,1,0,1
+BI,Blitz-Illu,1,0,1
+PZ,Pforzheimer Zeitung,1,1,1
+FAZ,Frankfurter Allgemeine Zeitung,1,0,1
+WFB,Westfalen-Blatt,1,1,1
+BZ,Badische Zeitung oder BZ Berlin?,1,1,1
+BK,Berliner Kurier,1,1,1
+Praline,Praline,1,0,1
+IS,Idea-Spektrum,1,0,1
+Express,Express,1,1,1
+ND,Neues Deutschland,1,0,1
+CMP,Chemnitzer Morgenpost,1,1,1
+Huerriyet,Hürriyet,1,1,0
