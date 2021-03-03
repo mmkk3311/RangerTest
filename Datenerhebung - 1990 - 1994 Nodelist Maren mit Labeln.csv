@@ -1,0 +1,52 @@
+id,name,type,region,published,label
+Ziffer1,Pressekodex Ziffer 1,0,NA,NA,Ziffer1
+Ziffer2,Pressekodex Ziffer 2,0,NA,NA,Ziffer2
+Ziffer4,Pressekodex Ziffer 4,0,NA,NA,Ziffer4
+Ziffer5,Pressekodex Ziffer 5,0,NA,NA,Ziffer5
+Ziffer7,Pressekodex Ziffer 7,0,NA,NA,Ziffer7
+Ziffer8,Pressekodex Ziffer 8,0,NA,NA,Ziffer8
+Ziffer9,Pressekodex Ziffer 9,0,NA,NA,Ziffer9
+Ziffer10,Pressekodex Ziffer 10,0,NA,NA,Ziffer10
+Ziffer11,Pressekodex Ziffer 11,0,NA,NA,Ziffer11
+Ziffer12,Pressekodex Ziffer 12,0,NA,NA,Ziffer12
+Ziffer13,Pressekodex Ziffer 13,0,NA,NA,Ziffer13
+Ziffer14,Pressekodex Ziffer 14,0,NA,NA,Ziffer14
+WAZ,Westdeutsche Allgemeine Zeitung,1,1,1,WAZ
+HM,Hamburger Morgenpost,1,1,1,HM
+RK,Rothenburger Kreiszeitung,1,1,1,RK
+MBZ,Mittelbayerische Zeitung,1,1,1,MBZ
+DP,Dill-Post,1,1,1,DP
+ABZ,Abendzeitung,1,1,1,ABZ
+TZ,Tageszeitung,1,1,1,TZ
+MM,Münchner Merkur,1,1,1,MM
+FNP,Frankfurter neue Presse,1,1,1,FNP
+DE,Darmstädter Echo,1,1,1,DE
+TAZ,Die Tageszeitung,1,0,1,TAZ
+Coupe,Coupé,1,0,1,Coupe
+Quick,Quick,1,0,1,Quick
+Bunte,Bunte,1,0,1,Bunte
+Super,Super,1,0,1,Super
+ME,Mitteldeutscher Express,1,1,1,ME
+Bild,Bild,1,0,1,Bild
+FR,Freizeit Revue,1,0,1,FR
+DGZ,Deggendorfer Zeitung,1,1,1,DGZ
+FN,Fishtown News,1,1,0,FN
+HK,Höchster Kreisblatt,1,1,1,HK
+BildaS,Bild am Sonntag,1,0,1,BildaS
+DW,Die Woche (Regensburg),1,1,1,DW
+SPHT,Standortpresse/Haller Tageblatt,1,1,1,SPHT
+Tempo,Tempo,1,0,1,Tempo
+SuperI,Super Illu,1,0,1,SuperI
+Playboy,Playboy,1,0,1,Playboy
+BI,Blitz-Illu,1,0,1,BI
+PZ,Pforzheimer Zeitung,1,1,1,PZ
+FAZ,Frankfurter Allgemeine Zeitung,1,0,1,FAZ
+WFB,Westfalen-Blatt,1,1,1,WFB
+BZ,Badische Zeitung oder BZ Berlin?,1,1,1,BZ
+BK,Berliner Kurier,1,1,1,BK
+Praline,Praline,1,0,1,Praline
+IS,Idea-Spektrum,1,0,1,IS
+Express,Express,1,1,1,Express
+ND,Neues Deutschland,1,0,1,ND
+CMP,Chemnitzer Morgenpost,1,1,1,CMP
+Huerriyet,Hürriyet,1,1,0,Huerriyet
